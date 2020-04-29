@@ -18,3 +18,15 @@ ol{
   font-style: italic;
   line-height: 30px;
 }
+strong{
+  font-style: italic;
+  text-decoration-style: double;
+  color: #BA4A00;
+}
+em{
+  font-style: oblique;
+  text-emphasis: bold;
+  color: #58D68D;
+  font-size: 10px;
+  background-color: #7F8C8D;
+}
