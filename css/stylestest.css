@@ -1,0 +1,30 @@
+body{
+  background-color:lightgrey;
+}
+h1{
+  border-bottom:double;
+  font-style: oblique;
+  text-align: center;
+}
+h2{
+  font-family: fantasy;
+  font-weight: bold;
+}
+p{
+  text-align: justify;
+  font-family: sans-serif;
+}
+ul{
+  color: blue;
+}
+ol{
+  color:green
+}
+strong{
+  background-color:#85929E#;
+  font-size: 20px;
+}
+em{
+  font-weight: bold;
+  color:red;
+}
